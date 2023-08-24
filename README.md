@@ -26,7 +26,7 @@ Users should be able to:
 ![desktop-active](screenshot/desktop-active.png)
 
 ### Links
-- Live Site URL: 
+- Live Site URL: https://yacodingroom.github.io/article-preview/
 
 ## My process
 ### Built with
