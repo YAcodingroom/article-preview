@@ -80,7 +80,9 @@ js event
 - [jQuery action in responsive design](https://stackoverflow.com/questions/11387391/how-to-call-different-jquery-actions-in-responsive-design)
 
 ## Author
-
+- Frontend Mentor - [@YAcodingroom]
+(https://www.frontendmentor.io/profile/YAcodingroom)
+- Threads - [@nt19_lya](https://www.threads.net/@nt19_lya)
 
 ## Acknowledgments
-
+感謝Ivy&Ciao，感謝Angela老師，感謝靜文老師，感謝Google，感謝Bootstrap，感謝宇宙，感謝自己。
